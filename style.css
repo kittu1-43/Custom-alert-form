@@ -1,0 +1,118 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+border:solid pink;
+opacity: 0.9;
+width: fit-content;
+font-size: 23px;
+padding-left: 30px;
+padding-right: 50px;
+margin-top: 18px;
+margin-left: 18px;
+
+
+
+}
+#title{
+text-align: center;
+font-size: 45px;
+margin-top:14px;
+padding-left:25px;
+padding-right: 25px;
+
+}
+.input{
+    width: 350px;
+    font-size: 15px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: pink;
+    height: 27px;
+    
+    
+}
+.a{
+    margin-bottom: 8px;
+    margin-bottom: 4px;
+}
+#submit{
+    margin-top: 25px;
+    width: 350px;
+    font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+#html{
+margin-top: 15px;
+margin-left: 110px;
+}
+#css{
+margin-top: -195px;
+margin-left: 220px;
+}
+#js{
+    margin-top:-40px;
+    margin-left: 160px;
+}
+#box1{
+    border:1px solid skyblue;
+    background-color: skyblue;
+    color: darkgreen;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: -620px;
+    margin-left: 500px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 70px;
+    padding-left: 35px;
+}
+#box2{
+    border:1px solid skyblue;
+    background-color: khaki;
+    color: darkmagenta;
+    font-size: 20px;
+    padding-left: 10px;
+    
+    margin-left: 500px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 70px;
+    padding-left: 35px;
+}
+#box3{
+    border:1px solid skyblue;
+    background-color: skyblue;
+    color: blue;
+    font-size: 20px;
+    padding-left: 10px;
+    
+    margin-left: 500px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 70px;
+    padding-left: 35px;
+}
+#box4{
+    border:1px solid darksalmon;
+    background-color:darksalmon;
+    color: red;
+    font-size: 20px;
+    padding-left: 10px;
+    
+    margin-left: 500px;
+    margin-right: 20px;
+    height: 70px;
+    padding-left: 35px;
+}
